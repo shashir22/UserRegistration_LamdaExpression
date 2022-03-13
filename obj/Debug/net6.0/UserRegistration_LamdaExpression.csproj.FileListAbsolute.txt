@@ -1,0 +1,15 @@
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\bin\Debug\net6.0\UserRegistration_LamdaExpression.exe
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\bin\Debug\net6.0\UserRegistration_LamdaExpression.deps.json
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\bin\Debug\net6.0\UserRegistration_LamdaExpression.runtimeconfig.json
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\bin\Debug\net6.0\UserRegistration_LamdaExpression.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\bin\Debug\net6.0\ref\UserRegistration_LamdaExpression.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\bin\Debug\net6.0\UserRegistration_LamdaExpression.pdb
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\UserRegistration_LamdaExpression.csproj.AssemblyReference.cache
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\UserRegistration_LamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\UserRegistration_LamdaExpression.AssemblyInfoInputs.cache
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\UserRegistration_LamdaExpression.AssemblyInfo.cs
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\UserRegistration_LamdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\UserRegistration_LamdaExpression.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\ref\UserRegistration_LamdaExpression.dll
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\UserRegistration_LamdaExpression.pdb
+C:\Users\shashiRgowda\Desktop\.Net Projects\UserRegistration_LamdaExpression\UserRegistration_LamdaExpression\obj\Debug\net6.0\UserRegistration_LamdaExpression.genruntimeconfig.cache
